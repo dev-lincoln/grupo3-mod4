@@ -1,7 +1,9 @@
 # grupo3-mod4
 Visualizando a situação - Projeto em grupo para o módulo 4 do curso WebDev Full Stack - Resilia
 
-<h2>Dataset: LEGO</h2> <br>
+<h2>Dataset: LEGO</h2>
+
+<h2>Ferramentas utilizadas: Power Bi, MySQL Workbench e Canva </h2>
 
 <h2>Perguntas elaboradas: </h2> <br>
 
