@@ -1,5 +1,5 @@
 # grupo-mod4
-Visualizando a situação - Projeto em grupo para o módulo 4 do curso WebDev Full Stack - Resilia
+Visualizando a situação -- Projeto em grupo para o módulo 4 do curso WebDev Full Stack - Resilia
 
 <h2>Dataset: LEGO</h2>
 
